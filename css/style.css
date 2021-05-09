@@ -1,0 +1,226 @@
+body{
+     margin: 0px;
+     padding: 0px;
+     text-align: center;
+     color: #40514E;
+     
+     font-family: 'Merriweather',serif;
+}
+h1  {
+    margin-top: 50px;
+    color:#66BFBF;
+    font-size: 5.625rem;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+    
+    
+}
+h2{
+    font-size: 2.5rem;
+    color:#64afaf;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+}
+h3{
+    margin-top:0;
+    font-weight: bold;
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-cont{
+    background-color: #e6fafd;
+    padding-top: 100px;
+
+}
+.middle-container{
+    margin: 100px 0;
+    
+}
+    
+    
+
+.bottom-cloud{
+    position: absolute;
+     bottom: 300px;
+     left: 250px;
+    
+
+}
+hr{
+    border: dotted 6px #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.top-cloud{
+    position: absolute;
+    top: 40px;
+    right: 300px;
+}
+
+a{
+    color: #087377;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto; 
+    text
+}
+.skill-row p{
+    text-align: left;
+    line-height:2;
+}
+.img-1{
+    width:30%;
+    float: left;
+    margin-right: 20px;
+}
+
+ .img-2{
+    width:30%;
+    float: right;
+    margin-left: 30px;
+
+
+}
+.para{
+    width: 30%;
+    margin:auto;
+    line-height:2;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #40cde6;
+    background-image: -webkit-linear-gradient(top, #40cde6, #0e8499);
+    background-image: -moz-linear-gradient(top, #40cde6, #0e8499);
+    background-image: -ms-linear-gradient(top, #40cde6, #0e8499);
+    background-image: -o-linear-gradient(top, #40cde6, #0e8499);
+    background-image: linear-gradient(to bottom, #40cde6, #0e8499);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #fffcff;
+    font-size: 21px;
+    padding: 10px 24px 10px 24px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #5ff0f5;
+    background-image: -webkit-linear-gradient(top, #5ff0f5, #21c4c4);
+    background-image: -moz-linear-gradient(top, #5ff0f5, #21c4c4);
+    background-image: -ms-linear-gradient(top, #5ff0f5, #21c4c4);
+    background-image: -o-linear-gradient(top, #5ff0f5, #21c4c4);
+    background-image: linear-gradient(to bottom, #5ff0f5, #21c4c4);
+    text-decoration: none;
+  }
+  .last-cont {
+      background-color: #66BFBF;
+      padding: 50px 0 20px;
+  }
+  .copyright {
+      color: #EAF6F6;
+      font-size: 0.75rem; 
+      padding:20px 0px;
+  }
+
+  form{
+      padding: 0px;
+      margin: 0;
+      background-color:#c9ebf1;
+      width: 350px;
+      height: 50%;
+      margin: auto auto;
+      padding:40px ;
+      border-radius: 8px; 
+      margin-bottom:100px;
+    
+    }
+  form input{
+      padding:8px;
+      margin-bottom: 5px;
+      border-radius:8px;
+      padding-left: 30px;
+      padding-right: 30px;
+      border: none;
+      border-bottom: solid;
+  }
+  form input:hover{
+      border-style: none;
+  }
+  .form{
+      padding: 10px 30px;
+      border-style: none;
+      margin-top: 20px;
+      background-color: #40cde6;
+      color: white;
+      background: linear-gradient(rgb(203, 227, 233),#187e7e);
+      cursor: pointer;
+  }
+  .form:hover{
+    
+    background: linear-gradient(rgb(204, 240, 235) , rgb(77, 189, 209))
+}
+
+ul{
+    list-style-type: none;
+}
+table{
+    margin: auto auto;
+    
+}
+.table-1{
+    margin-bottom:100px;
+    background-color: #def1f5;
+    padding:30px;
+}
+
+.container-1{
+    margin-top: 100px;
+
+}
+.container-2{
+    margin:100px ;
+}
+.table-2{
+    margin-bottom:100px;
+    background-color: #def1f5;
+    padding:30px;
+}
+.footer{
+    display:inline-block;
+     padding: 50px 0 20px;
+     width: 100%;
+     background-color: #66BFBF;
+
+}
+.professional{
+    text-align:center;
+    margin: auto auto;
+}
+.professional h3{
+    margin-left: 40px;
+}
+  .hobbies-footer{
+    display:inline-block;
+    padding: 50px 0 20px;
+    width: 100%;
+    margin-bottom: 0px;
+    background-color: #66BFBF;
+  }
+  .container-5{
+      margin-bottom: 400px;
+      
+  }
